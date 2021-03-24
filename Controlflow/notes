@@ -1,0 +1,21 @@
+Control Flow 
+
+1. Conditional Control Flow 
+    if 
+    if else
+
+    switch case break default 
+    ternary operator 
+2. Iterative Flow 
+    for 
+    while
+    do while 
+    for of 
+    for in 
+
+    ES6
+    -----------
+    Array.forEach()
+    Array.map()
+    Array.reduce()
+    Array.filter()
